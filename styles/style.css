@@ -171,6 +171,17 @@ margin-right: 20px;
 
 @media only screen and (max-width:500px){
 
+.container{
+    width: 100%;
+}
+
+
+.menu_container{
+    width: 100%;
+
+   
+}
+
     .players{
    
         grid-template-columns: repeat(1,1fr);
@@ -190,6 +201,17 @@ margin-right: 20px;
 }
 
 @media only screen and (min-width:500px) and (max-width:980px){
+
+    .container{
+        width: 100%;
+    }
+    
+    
+    .menu_container{
+        width: 100%;
+    
+       
+    }
 
     .players{
    
